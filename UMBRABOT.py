@@ -10,7 +10,7 @@ from aiogram.client.session.aiohttp import AiohttpSession
 
 import os
 API_TOKEN = '9179237160:AAGXOc9BTs9gBr7mOBO0C31bmGlDg7Qo9uk'
-ADMIN_ID = 7955876814
+ADMIN_ID = (7281807793, 1622546107)
 PROXY_URL = None
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
