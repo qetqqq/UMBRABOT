@@ -8,6 +8,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.client.session.aiohttp import AiohttpSession
 
+import os
 API_TOKEN = '9179237160:AAGXOc9BTs9gBr7mOBO0C31bmGlDg7Qo9uk'
 ADMIN_ID = 7955876814
 PROXY_URL = None
